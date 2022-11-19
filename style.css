@@ -16,3 +16,18 @@
 .slider-c {
     background: #dc3545;
 }
+
+.title-footer {
+    border-bottom: 3px solid;
+    height: 35px;
+}
+
+.footer-a {
+    padding: 0;
+}
+
+.footer-a a {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
