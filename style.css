@@ -7,3 +7,12 @@
 .paraMain {
     text-align: justify;
 }
+
+.card-primary {
+    background: #1b2a4e;
+    color: #fff;
+}
+
+.slider-c {
+    background: #dc3545;
+}
